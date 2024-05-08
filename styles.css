@@ -2,9 +2,4 @@
   display: flex;
   flex-direction: row;
 }
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
+
